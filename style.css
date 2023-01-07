@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+}
+#navbar{
+    margin-top: 23px;
+    display: flex;
+    position: fixed;
+}
+#navicon{
+    fill: white;
+    height: 25px;
+    margin-left: 60px;
+    margin-top: 8px;
+    margin-right: 40px;
+}
+
+#shop{
+    border: none;
+    margin-left: 160px;
+}
+.bar{
+    margin-bottom: 2.5px;
+    width: 16px;
+    height: 2.5px;
+    background-color: white;
+}
+#toggler{
+    background-color: inherit;
+    border: none;
+}
+
+.navtext{
+    transition: all .2s ease;
+    cursor: pointer;
+    font: 14px/28px D-DIN-Bold,Arial,Verdana,sans-serif;
+    margin-right: 25px;
+    color: white;
+    font-weight: 600;
+    font-size: 12.5px;
+}
+.navtext:hover{
+    border-bottom: white 2px solid;
+}
+
+
+#imagediv1{
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Desktop_homepage_0b2472c14c.jpg");
+    background-size: cover;
+    height: 682px;
+    width: 100%;
+}
+#imagediv2{
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/desktop_homepage_jpg_8d046962fb.jpg");
+    background-size: cover;
+    height: 682px;
+    width: 100%;
+}
+#imagediv3{
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Homepage_Desktop_5ebdeb0c6c.webp");
+    background-size: cover;
+    height: 682px;
+    width: 100%;
+}
+#imagediv4{
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/S20_Chopstick_Stack_Desktop_0c016b49ec.webp");
+    background-size: cover;
+    width: 100%;
+    height: 682px;
+}
+
+h4{
+    margin-top: 350px;
+    font: 20px/38px D-DIN-Medium,Arial,Verdana,sans-serif;
+    margin-left: 60px;
+    color: white;
+    display: block;
+}
+h2{
+    margin-top: -25px;
+    width: 500px;
+    font: 43px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    margin-left: 60px;
+    color: white;
+    font-weight: 600;
+}
+
+.divbutton{
+    transition: all .2s ease;
+    cursor: pointer;
+    font-weight: 600;
+    margin-left: 60px;
+    width: 190px;
+    height: 55px;
+    background-color: inherit;
+    border: white 2px solid;
+    color: white;
+}
+.divbutton:hover{
+    background-color: white;
+    color: #979797;
+}
+
+
+
+
+
+
+
+
+
+#footer{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+.footertext{
+    cursor: pointer;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
+    color: white;
+    font: 11px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.footertext:hover{
+    color: rgb(36, 66, 45);
+}
