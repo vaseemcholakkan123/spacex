@@ -48,7 +48,7 @@ body{
     flex-direction: column;
     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Desktop_homepage_0b2472c14c.jpg");
     background-size: cover;
-    height: 682px;
+    height: 100vh;
     width: 100%;
 }
 #imagediv2{
@@ -56,7 +56,7 @@ body{
     flex-direction: column;
     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/desktop_homepage_jpg_8d046962fb.jpg");
     background-size: cover;
-    height: 682px;
+    height: 100vh;
     width: 100%;
 }
 #imagediv3{
@@ -64,7 +64,7 @@ body{
     flex-direction: column;
     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Homepage_Desktop_5ebdeb0c6c.webp");
     background-size: cover;
-    height: 682px;
+    height: 100vh;
     width: 100%;
 }
 #imagediv4{
@@ -73,7 +73,7 @@ body{
     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/S20_Chopstick_Stack_Desktop_0c016b49ec.webp");
     background-size: cover;
     width: 100%;
-    height: 682px;
+    height: 100vh;
 }
 
 h4{
